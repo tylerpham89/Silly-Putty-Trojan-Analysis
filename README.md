@@ -1,4 +1,4 @@
-#Silly Putty Trojan Analysis
+#Silly Putty Trojan Analysis#
 
 **Static analysis**
 
